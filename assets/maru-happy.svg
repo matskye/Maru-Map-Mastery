@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Maru (happy)">
+  <ellipse cx="100" cy="186" rx="52" ry="8" fill="#000" opacity=".12"/>
+  <!-- feet -->
+  <ellipse cx="72" cy="176" rx="17" ry="9" fill="#f3e6d3" stroke="#3b2a20" stroke-width="3"/>
+  <ellipse cx="128" cy="176" rx="17" ry="9" fill="#f3e6d3" stroke="#3b2a20" stroke-width="3"/>
+  <!-- raised arms -->
+  <path d="M34 112 Q14 92 22 66" fill="none" stroke="#3b2a20" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="22" cy="64" r="9" fill="#fffaf0" stroke="#3b2a20" stroke-width="3"/>
+  <path d="M166 112 Q186 92 178 66" fill="none" stroke="#3b2a20" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="178" cy="64" r="9" fill="#fffaf0" stroke="#3b2a20" stroke-width="3"/>
+  <!-- body -->
+  <circle cx="100" cy="106" r="68" fill="#fffaf0" stroke="#3b2a20" stroke-width="4"/>
+  <path d="M52 140 Q100 176 148 140" fill="none" stroke="#f0dcc0" stroke-width="10" stroke-linecap="round" opacity=".7"/>
+  <!-- red maru on forehead -->
+  <circle cx="100" cy="58" r="12" fill="#e03a3e" stroke="#3b2a20" stroke-width="3"/>
+  <circle cx="96" cy="54" r="3.5" fill="#fff" opacity=".7"/>
+  <!-- eyes ^ ^ -->
+  <path d="M64 100 Q76 84 88 100" fill="none" stroke="#3b2a20" stroke-width="5" stroke-linecap="round"/>
+  <path d="M112 100 Q124 84 136 100" fill="none" stroke="#3b2a20" stroke-width="5" stroke-linecap="round"/>
+  <!-- cheeks -->
+  <ellipse cx="62" cy="116" rx="12" ry="8" fill="#ff8f8f" opacity=".7"/>
+  <ellipse cx="138" cy="116" rx="12" ry="8" fill="#ff8f8f" opacity=".7"/>
+  <!-- mouth -->
+  <path d="M82 114 Q100 142 118 114 Z" fill="#8c2a2a" stroke="#3b2a20" stroke-width="3.5" stroke-linejoin="round"/>
+  <path d="M90 128 Q100 136 110 128 Q100 122 90 128Z" fill="#ff7b86"/>
+  <!-- sparkles -->
+  <g fill="#ffc933" stroke="#e0a100" stroke-width="1.5" stroke-linejoin="round">
+    <path d="M36 34 l4 10 10 4 -10 4 -4 10 -4 -10 -10 -4 10 -4z"/>
+    <path d="M168 24 l3 8 8 3 -8 3 -3 8 -3 -8 -8 -3 8 -3z"/>
+    <path d="M150 168 l2.5 6 6 2.5 -6 2.5 -2.5 6 -2.5 -6 -6 -2.5 6 -2.5z"/>
+  </g>
+</svg>

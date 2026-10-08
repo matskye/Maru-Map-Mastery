@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Maru (sad)">
+  <ellipse cx="100" cy="186" rx="52" ry="8" fill="#000" opacity=".12"/>
+  <ellipse cx="72" cy="176" rx="17" ry="9" fill="#f3e6d3" stroke="#3b2a20" stroke-width="3"/>
+  <ellipse cx="128" cy="176" rx="17" ry="9" fill="#f3e6d3" stroke="#3b2a20" stroke-width="3"/>
+  <!-- drooping arms -->
+  <path d="M34 118 Q22 140 30 156" fill="none" stroke="#3b2a20" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="30" cy="158" r="9" fill="#fffaf0" stroke="#3b2a20" stroke-width="3"/>
+  <path d="M166 118 Q178 140 170 156" fill="none" stroke="#3b2a20" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="170" cy="158" r="9" fill="#fffaf0" stroke="#3b2a20" stroke-width="3"/>
+  <!-- body (slightly squashed) -->
+  <ellipse cx="100" cy="110" rx="68" ry="64" fill="#f4f1ea" stroke="#3b2a20" stroke-width="4"/>
+  <circle cx="100" cy="62" r="12" fill="#c9484b" stroke="#3b2a20" stroke-width="3"/>
+  <circle cx="96" cy="58" r="3.5" fill="#fff" opacity=".6"/>
+  <!-- eyebrows -->
+  <path d="M62 86 L86 80" stroke="#3b2a20" stroke-width="4" stroke-linecap="round"/>
+  <path d="M138 86 L114 80" stroke="#3b2a20" stroke-width="4" stroke-linecap="round"/>
+  <!-- eyes -->
+  <ellipse cx="76" cy="104" rx="11" ry="14" fill="#3b2a20"/>
+  <ellipse cx="124" cy="104" rx="11" ry="14" fill="#3b2a20"/>
+  <circle cx="72" cy="99" r="4.5" fill="#fff"/><circle cx="80" cy="109" r="2.5" fill="#fff"/>
+  <circle cx="120" cy="99" r="4.5" fill="#fff"/><circle cx="128" cy="109" r="2.5" fill="#fff"/>
+  <!-- tears -->
+  <path d="M70 120 Q64 136 68 146" fill="none" stroke="#5fb4f0" stroke-width="5" stroke-linecap="round"/>
+  <path d="M130 120 Q136 136 132 146" fill="none" stroke="#5fb4f0" stroke-width="5" stroke-linecap="round"/>
+  <ellipse cx="62" cy="122" rx="10" ry="6" fill="#ff8f8f" opacity=".35"/>
+  <ellipse cx="138" cy="122" rx="10" ry="6" fill="#ff8f8f" opacity=".35"/>
+  <!-- mouth -->
+  <path d="M84 146 Q100 130 116 146" fill="none" stroke="#3b2a20" stroke-width="4.5" stroke-linecap="round"/>
+  <!-- sweat drop -->
+  <path d="M164 56 Q176 74 164 82 Q152 74 164 56Z" fill="#8fd0ff" stroke="#3b82c4" stroke-width="2.5" stroke-linejoin="round"/>
+</svg>
